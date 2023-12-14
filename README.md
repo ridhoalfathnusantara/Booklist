@@ -1,7 +1,8 @@
-# Booklist
+# BookList
   
 ### Deskripsi
-Lorem ipsum
+BookList adalah website untuk meningkatkan potensi minat baca masyarakat Indonesia 
+dengan fokus pada efektifitas pengelolaan buku
 
 ### Anggota Kelompok
 | Nama          | NIM |
