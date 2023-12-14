@@ -2,7 +2,7 @@
   
 ### Deskripsi
 BookList adalah website untuk meningkatkan potensi minat baca masyarakat Indonesia 
-dengan fokus pada efektivitas pengelolaan buku dengan memberikan kemudahan akses dalam mengatur koleksi bacaan pengguna.
+dengan fokus pada efektivitas pengelolaan buku yang memberikan kemudahan akses dalam mengatur koleksi bacaan pengguna.
 
 ### Anggota Kelompok
 | Nama          | NIM |
