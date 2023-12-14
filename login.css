@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: #fff;
+    align-items: center;
+    font-family: Baloo Bhai, cursive;
+    
+}
+
+
+.icon {
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    width: 100px;
+    height: auto; 
+    z-index: 1;
+}
+
+.gambar{
+    size: 20%;
+    align-self: flex-start; 
+    display: block;
+    margin-left: auto; 
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+.container{
+    
+    background: transparent;
+    width: 350px;
+    text-align: center;
+    padding: 40px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    border: 2px solid black;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+form .inputfield{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5px;
+}
+
+form .inputfield input{
+    margin-bottom: 10px;
+    outline: none;
+    width: 220px;
+    padding: 8px;
+    box-sizing: border-box;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+
+form button{
+    font-size: 14px;
+    width: 100px;
+    font-family: Baloo Bhai, cursive;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 14px;
+}
+
+form button:hover{
+    color: #fff;
+    background: #00bbf9;
+}
+
+form .signupbtn{
+    background: transparent;
+    padding: 6px;
+    border-radius: 10px;
+    transition: 0.1s;
+    font-size: 14px;
+}
+
+form .signupbtn:hover{
+    color: #fff;
+    background: #00bbf9;
+}
